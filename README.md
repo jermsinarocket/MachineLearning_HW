@@ -1,5 +1,5 @@
 # MECH409k Artificial Intelligence for M.E. (Machine Learning) [Spring 2019, POSTECH]
-All the homeworks for MECH409K
+All the homework for MECH409K
 
 ## Development Environment
 * Python 3.6.7
