@@ -1,4 +1,4 @@
-# MECH409k Artificial Intelligence for M.E. (Machine Learning) [Spring 2019, POSTECH]
+# MECH409K Artificial Intelligence for M.E. (Machine Learning) [Spring 2019, POSTECH]
 All the homework for MECH409K
 
 ## Development Environment
